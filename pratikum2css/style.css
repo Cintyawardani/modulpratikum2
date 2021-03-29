@@ -6,18 +6,19 @@
     border:thin solid black !important;
 }
 header{
-    color: #6495ED;
+    background-color: navy;
+    color: #ed6476;
     font-size: 24pt;
     padding: 20px;
 }
 body{
-    background-color: navy;
+    background-color:turquoise;
     font-family: 'Karla', sans-serif;
-    color: #4e4e4e;
+    color: #b92d3fa6;
     font-size: 16pt;
 }
 footer{
-   color: rgb(100, 149, 237);
+   color: rgb(206, 15, 15);
    font-size: 24pt;
 }
 .container{
